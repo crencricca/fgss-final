@@ -68,6 +68,11 @@
               <b>ANTIGONE:</b> You can make these excuses. I will go heap up a tomb for my beloved brother.
             </p>
           </v-card-text>
+          <v-card-actions>
+            <v-btn href="http://www.napavalley.edu/people/LYanover/Documents/English%20121/English%20121%20Sophocles%20Antigone%20translated%20by%20Paul%20Roche.pdf" text color="indigo" target="_blank">
+            Full Text
+            </v-btn>
+          </v-card-actions>
         </v-card>
       </v-col>
     </v-row>
@@ -294,7 +299,7 @@
               <v-row>
                 <v-col cols="1"></v-col>
                 <v-col cols="8">
-                  <p class="display-1 indigo--text">Analysis</p>
+                  <p class="display-1 indigo--text"><i>Antigone</i> Analysis</p>
                 </v-col>
               </v-row>
             </v-expansion-panel-header>
@@ -302,12 +307,21 @@
               <v-row>
                 <v-col cols="1"></v-col>
                 <v-col cols="10">
-                  <p
-                    class="body-2"
-                  >In order to analyze this data, I took each of the responses and removed the "filler" words that did not carry significant meaning. I gathered a list of words that the respondents used in association with or to directly describe each character and put the lists into a word cloud generator for each character.</p>
-                  <p
-                    class="body-2"
-                  >I then ran each list through a sentiment analysis program and made a simple pie chart of words with positive, neutral, or negative connotation used for each character.</p>
+                  <p class="body-2">
+                    In order to analyze this data, I focused on the responses to the 
+                    questions that directly asked about Antigone's and Ismene's character. I took each of the responses
+                    and removed the "filler" words that did not carry
+                    significant meaning. I gathered a list of words that the
+                    respondents used in association with or to directly describe
+                    each character and put the lists into a word cloud generator
+                    for each character.
+                  </p>
+                  <p class="body-2">
+                    I then separated the words by sentiment and with the help of
+                    a sentiment analysis program, labeled them as either positive,
+                    negative, or neutral I then made a simple pie chart displaying
+                    the relative percentages of each.
+                  </p>
                 </v-col>
               </v-row>
               <v-row text-center align="center" justify="center">
