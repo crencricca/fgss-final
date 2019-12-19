@@ -8,7 +8,7 @@
           </v-col>
           <v-col cols="5">
             <p class="headline font-weight-light">
-              How do modern readers respond to ancient Greek fictional characters
+              How do modern readers respond to Ancient Greek fictional characters
               vs. contemporary characters?
             </p>
           </v-col>

@@ -17,7 +17,9 @@
       <HelloWorld />
       <Intro id="intro" />
       <Bios />
-      <Passages />
+      <Antigone />
+      <Lysistrata />
+      <HT />
     </v-content>
   </v-app>
 </template>
@@ -26,7 +28,9 @@
 import HelloWorld from "./components/HelloWorld";
 import Intro from "./components/Intro";
 import Bios from "./components/Bios";
-import Passages from "./components/Passages";
+import Antigone from "./components/Antigone";
+import Lysistrata from "./components/Lysistrata";
+import HT from "./components/HT";
 
 export default {
   name: "App",
@@ -35,7 +39,9 @@ export default {
     HelloWorld,
     Intro,
     Bios,
-    Passages
+    Antigone,
+    Lysistrata,
+    HT
   },
 
   data: () => ({
