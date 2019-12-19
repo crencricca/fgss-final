@@ -78,7 +78,7 @@
           border="left"
           color="indigo"
           dark
-        >Click the respondent's photo to view their annotations.</v-alert>
+        >Click the respondent's photo to view their annotations of the passage.</v-alert>
         <v-expansion-panels>
           <v-expansion-panel>
             <v-expansion-panel-header>
@@ -242,7 +242,7 @@
                                 style="height: 100%; width:100%; position:fluid;"
                               >
                                 <a
-                                  href="http://www.google.com"
+                                  href="https://drive.google.com/file/d/1Bg5EmVGjDUnumqt6jCye8RBz-Q3fCOSv/view?usp=sharing"
                                   target="_blank"
                                   style="color:white; text-decoration:none"
                                 >
@@ -289,6 +289,124 @@
               </v-row>
             </v-expansion-panel-content>
           </v-expansion-panel>
+          <v-expansion-panel>
+            <v-expansion-panel-header>
+              <v-row>
+                <v-col cols="1"></v-col>
+                <v-col cols="8">
+                  <p class="display-1 indigo--text">Analysis</p>
+                </v-col>
+              </v-row>
+            </v-expansion-panel-header>
+            <v-expansion-panel-content>
+              <v-row>
+                <v-col cols="1"></v-col>
+                <v-col cols="10">
+                  <p
+                    class="body-2"
+                  >In order to analyze this data, I took each of the responses and removed the "filler" words that did not carry significant meaning. I gathered a list of words that the respondents used in association with or to directly describe each character and put the lists into a word cloud generator for each character.</p>
+                  <p
+                    class="body-2"
+                  >I then ran each list through a sentiment analysis program and made a simple pie chart of words with positive, neutral, or negative connotation used for each character.</p>
+                </v-col>
+              </v-row>
+              <v-row text-center align="center" justify="center">
+                <p class="display-1">
+                  <b>Antigone</b>
+                </p>
+              </v-row>
+              <v-row text-center align="center" justify="center">
+                <v-row text-center align="center" justify="center">
+                  <v-col cols="5">
+                    <v-img src="../../public/Antigone-WC.png" />
+                  </v-col>
+                  <v-col cols="4">
+                    <v-simple-table dense>
+                      <thead>
+                        <tr>
+                          <th class="text-left">Word</th>
+                          <th class="text-left">Frequency</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr v-for="item in AntigoneDesc" :key="item.word">
+                          <td>{{ item.word }}</td>
+                          <td>{{ item.freq }}</td>
+                        </tr>
+                      </tbody>
+                    </v-simple-table>
+                  </v-col>
+                </v-row>
+                <v-row text-center align="center" justify="center">
+                  <v-col cols="5">
+                    <v-img src="../../public/Antigone-chart.png" />
+                  </v-col>
+                  <v-col cols="4">
+                    <p class="body-2">
+                      Based on my sentiment analysis, the words used in context to describe Antigone are
+                      <b>76%</b> positive and
+                      <b>24%</b> negative
+                    </p>
+                  </v-col>
+                </v-row>
+                <p></p>
+              </v-row>
+              <v-row text-center align="center" justify="center">
+                <p class="display-1">
+                  <b>Ismene</b>
+                </p>
+              </v-row>
+              <v-row text-center align="center" justify="center">
+                <v-row text-center align="center" justify="center">
+                  <v-col cols="5">
+                    <v-img src="../../public/Ismene-WC.png" />
+                  </v-col>
+                  <v-col cols="4">
+                    <v-simple-table dense>
+                      <thead>
+                        <tr>
+                          <th class="text-left">Word</th>
+                          <th class="text-left">Frequency</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr v-for="item in IsmeneDesc" :key="item.word">
+                          <td>{{ item.word }}</td>
+                          <td>{{ item.freq }}</td>
+                        </tr>
+                      </tbody>
+                    </v-simple-table>
+                  </v-col>
+                </v-row>
+              </v-row>
+              <v-row text-center align="center" justify="center">
+                <v-col cols="5">
+                  <v-img src="../../public/Ismene-chart.png" />
+                </v-col>
+                <v-col cols="4">
+                  <p class="body-2">
+                    Based on my sentiment analysis, the words used in context to describe Ismene are
+                    <b>29%</b> neutral and
+                    <b>71%</b> negative.
+                  </p>
+                </v-col>
+              </v-row>
+              <v-row>
+                <v-col cols="1"></v-col>
+                <v-col cols="10">
+                  <p
+                    class="body-2"
+                  >Based on the responses, I can conclude that the antiquity of the text does not inherently prohibit even inexperienced readers from connecting with the characters in the passage.</p>
+                  <p
+                    class="body-2"
+                  >It seems that the readers struggled to connect with Ismene. I would hypothesize that this is because she really serves as a foil to Antigone and does not show much personality in this selection, so it makes sense that readers would feel neutral or negatively towards her.</p>
+                  <p
+                    class="body-2"
+                  >I find it interesting that Antigone seems to be somewhat of a polarizing character. I would hypothesize that this is because the situation is so extreme that it might be difficult for a reader to relate to Antigone's actions here.</p>
+                </v-col>
+              </v-row>
+            </v-expansion-panel-content>
+          </v-expansion-panel>
         </v-expansion-panels>
       </v-col>
     </v-row>
@@ -297,6 +415,118 @@
 
 <script>
 export default {
-  name: "Antigone"
+  name: "Antigone",
+  data() {
+    return {
+      AntigoneDesc: [
+        {
+          word: "beliefs",
+          freq: 5
+        },
+        {
+          word: "moral",
+          freq: 3
+        },
+        {
+          word: "right",
+          freq: 3
+        },
+        {
+          word: "brave",
+          freq: 2
+        },
+        {
+          word: "loyalty",
+          freq: 2
+        },
+        {
+          word: "family",
+          freq: 2
+        },
+        {
+          word: "badass",
+          freq: 1
+        },
+        {
+          word: "duty",
+          freq: 1
+        },
+        {
+          word: "rebellious",
+          freq: 1
+        },
+        {
+          word: "strong",
+          freq: 1
+        },
+        {
+          word: "friend",
+          freq: 1
+        },
+        {
+          word: "courage",
+          freq: 1
+        }
+      ],
+      IsmeneDesc: [
+        {
+          word: "constrained",
+          freq: 2
+        },
+        {
+          word: "law",
+          freq: 2
+        },
+        {
+          word: "submit",
+          freq: 2
+        },
+        {
+          word: "cowardly",
+          freq: 1
+        },
+        {
+          word: "stereotype",
+          freq: 1
+        },
+        {
+          word: "follow",
+          freq: 1
+        },
+        {
+          word: "forbidden",
+          freq: 1
+        },
+        {
+          word: "sexist",
+          freq: 1
+        },
+        {
+          word: "submit",
+          freq: 1
+        },
+        {
+          word: "powerless",
+          freq: 1
+        },
+        {
+          word: "weak",
+          freq: 1
+        },
+        {
+          word: "duty",
+          freq: 1
+        },
+        {
+          word: "citizens",
+          freq: 1
+        },
+        {
+          word: "safe",
+          freq: 1
+        }
+      ]
+    };
+  }
 };
 </script>

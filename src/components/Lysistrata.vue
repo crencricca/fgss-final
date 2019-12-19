@@ -135,7 +135,7 @@
           border="left"
           color="indigo"
           dark
-        >Click the respondent's photo to view their annotations.</v-alert>
+        >Click the respondent's photo to view their annotations of the passage.</v-alert>
         <v-expansion-panels>
           <v-expansion-panel>
             <v-expansion-panel-header>
@@ -299,7 +299,7 @@
                                 style="height: 100%; width:100%; position:fluid;"
                               >
                                 <a
-                                  href="http://www.google.com"
+                                  href="https://drive.google.com/file/d/1ldHiBvQH-h2xRmcfWzn5dblBbifLFVTY/view?usp=sharing"
                                   target="_blank"
                                   style="color:white; text-decoration:none"
                                 >
@@ -319,7 +319,7 @@
                     <v-col cols="8">
                       <p
                         class="body-2"
-                      >This is one of the passages that I most enjoyed reading during this class. It was refreshing to see a female character that defied gender stereotypes and stood up for what she believed in. I empathize with Antigone because I relate to her experience combatting stereotypes. However, I do find it somewhat difficult to relate with Antigone because of the extreme circumstances of the passage. Her situation is not necessarily directly relatable to me, but her experience is.</p>
+                      >I have a hard time relating to the characters in this passage. The situation is just so distant and foreign to me that I cannot even really imagine myself in it. I also feel that the majority of these women embody many of the stereotypes associated with women, such as hypersexuality and helplessness.</p>
                       <v-divider />
                       <p></p>
                       <p class="subtitle-2">What kind of woman is Antigone?</p>

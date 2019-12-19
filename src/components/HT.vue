@@ -120,7 +120,7 @@
           border="left"
           color="indigo"
           dark
-        >Click the respondent's photo to view their annotations.</v-alert>
+        >Click the respondent's photo to view their annotations of the passage.</v-alert>
         <v-expansion-panels>
           <v-expansion-panel>
             <v-expansion-panel-header>
@@ -288,7 +288,7 @@
                                 style="height: 100%; width:100%; position:fluid;"
                               >
                                 <a
-                                  href="http://www.google.com"
+                                  href="https://drive.google.com/file/d/1ojee-G0fiioZI79vmj6vspz-3n5dxMJY/view?usp=sharing"
                                   target="_blank"
                                   style="color:white; text-decoration:none"
                                 >
@@ -308,27 +308,29 @@
                     <v-col cols="8">
                       <p
                         class="body-2"
-                      >This is one of the passages that I most enjoyed reading during this class. It was refreshing to see a female character that defied gender stereotypes and stood up for what she believed in. I empathize with Antigone because I relate to her experience combatting stereotypes. However, I do find it somewhat difficult to relate with Antigone because of the extreme circumstances of the passage. Her situation is not necessarily directly relatable to me, but her experience is.</p>
+                      >I think it this passage is really interesting because so much of the conversation depends on subtext and is unspoken. We only are given Offred’s perspective, which serves to allow the audience to feel the same suspicion and hesitation that Offred displays. This reminds me of the conversation between Antigone and Ismene, where Antigone tries to figure out where her sister’s loyalties lie. It seems that Offred and the other women in this scene are closely watching each other’s reactions in an attempt to determine each other’s loyalties.</p>
                       <v-divider />
                       <p></p>
-                      <p class="subtitle-2">What kind of woman is Antigone?</p>
+                      <p class="subtitle-2">What kind of woman is Offred?</p>
                       <p
                         class="body-2"
-                      >I think that Antigone is a really brave character. I also find it interesting that she embodies characteristics that were typically attributed to men, such as courage and loyalty. I really respect that she stands up for her beliefs and acts in a way that she believes to be morally right.</p>
-                      <v-divider />
-                      <p></p>
-                      <p class="subtitle-2">What kind of woman is Ismene?</p>
-                      <p
-                        class="body-2"
-                      >Ismene has had the stereotypical role of a woman engrained in her so deeply that she refuses to do anything that has been forbidden, regardless of whether it is morally right or wrong. She believes that they “are women, not meant to wage war with men,” feeling the need to follow every law no matter her own beliefs on the situation.</p>
+                      >The main motivation behind Offred’s character seems to be loyalty to her family. She seems to be utilizing social survival skills to avoid arousing suspicion. She is smart with her reactions and seems to be acutely aware of her situation.</p>
                       <v-divider />
                       <p></p>
                       <p
                         class="subtitle-2"
-                      >Does it affect your reading to know that all characters would have been played by men?</p>
+                      >How would you characterize the interaction between the handmaids?</p>
                       <p
                         class="body-2"
-                      >Yes, absolutely! I think that the story would lose some of its meaning if it were to be played by all men. There is a clear power dynamic in Antigone between the women and the men of the story, and if it the play were to be all men, the power dynamic would seem to be equal.</p>
+                      >I would characterize the interaction as very tense. The women seem to be afraid to arouse suspicion with one another, implying that there would be harsh consequences for heresy. It is clear that none of the women are acting naturally. However, despite the scripted nature of their conversation, I think that there is more being said than what is actually spoken.</p>
+                      <v-divider />
+                      <p></p>
+                      <p
+                        class="subtitle-2"
+                      >Does it make a difference that this passage clearly was written/takes place during modern times?</p>
+                      <p
+                        class="body-2"
+                      >It does make a difference – first, some of the language is more colloquial and familiar to us as modern readers. Hearing Offred’s internal thoughts makes her a very relatable character, as I would likely act similarly if I were in her situation. The story seems like it could take place in the near future, which makes it easier as a reader for me to imagine myself in it. The dystopian feel of the story also feels familiar because it is popular in fiction right now.</p>
                     </v-col>
                   </v-row>
                 </v-col>

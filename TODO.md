@@ -1,17 +1,16 @@
 # PROJECT
 
 - finish introduction and write conclusion
-- word cloud / graphs
+  - new hypothesis and research question
+- lysistrata analysis
+- HT analysis
 - identification and alienation definitions?
 
-- annotations for Antigone (bliss)
-- annotations for Lysistrata (bliss)
-- annotations for HT (bliss)
 - responses to Lysistrata (bliss)
-- responses to HT (bliss)
 
 # WEBSITE
 
+- fix or remove nav tabs
 - change font?
 - expand on hover for PDFs?
 - add question before olivia/bliss intro?
