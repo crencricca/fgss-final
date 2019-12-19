@@ -5,7 +5,8 @@ For this project, I interviewed three of my peers about their responses to sampl
 This project was built using Vue.js and Vuetify. 
 
 <b>Total hours worked:</b> 19 hours
-<b>Total lines of code:</b>
+
+<b>Total lines of Vue.js Component code:</b> 2692
 
 ### Dependencies
 Install with ```npm install [package]```
