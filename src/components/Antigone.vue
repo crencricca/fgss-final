@@ -46,7 +46,7 @@
               <b>ISMENE:</b> In spite of the ban on the whole city?
             </p>
             <p>
-              <b>ANTIGONE:</b> Yes, for he’s my brother—and yours, too, even if you wish he weren’t. *6 I’ll not betray him.
+              <b>ANTIGONE:</b> Yes, for he’s my brother—and yours, too, even if you wish he weren’t. I’ll not betray him.
             </p>
             <p>
               <b>ISMENE:</b> So stubborn, though Creon has forbidden it?
@@ -56,10 +56,10 @@
             </p>
             <p>
               <b>ISMENE:</b>
-              <i>( dismayed )</i> oimoi! Think, Sister, how our father came to ruin and died, hated and disgraced for crimes he himself detected, and then battered his own two eyes with self-assailing hands; and how his mother and wife—she was both to him— destroyed her life in the twisted noose; and how our two brothers, in a single day, shed each other’s blood, and wrought in misery the doom they shared, hands raised against each other. Now think: we two are left alone; we’ll die so cruelly, if we dare to break the law 60 or scant the tyrant’s vote and spurn his power. We must also bear in mind that we are women, not meant to wage war with men; and then, that we’re compelled by those stronger than we are to acquiesce in this, and things more painful still. I’ll ask those beneath the earth to understand that I am acting, as I am, under compulsion. And I’ll obey the authorities. Trying to do more than we can makes no sense at all.
+              <i>( dismayed )</i> oimoi! Think, Sister, how our father came to ruin and died, hated and disgraced for crimes he himself detected, and then battered his own two eyes with self-assailing hands; and how his mother and wife—she was both to him— destroyed her life in the twisted noose; and how our two brothers, in a single day, shed each other’s blood, and wrought in misery the doom they shared, hands raised against each other. Now think: we two are left alone; we’ll die so cruelly, if we dare to break the law or scant the tyrant’s vote and spurn his power. We must also bear in mind that we are women, not meant to wage war with men; and then, that we’re compelled by those stronger than we are to acquiesce in this, and things more painful still. I’ll ask those beneath the earth to understand that I am acting, as I am, under compulsion. And I’ll obey the authorities. Trying to do more than we can makes no sense at all.
             </p>
             <p>
-              <b>ANTIGONE:</b> will not plead with you and, if you change your mind, I won’t welcome your assistance later. No—be what seems best to you, and I will bury him myself, and so die nobly. I’ll lie beside him in love, guilty of devotion! For I must please the dead a longer time than I must please the living. With them I’ll lie forever. But you go on, dishonor what’s honored by the gods.
+              <b>ANTIGONE:</b> I will not plead with you and, if you change your mind, I won’t welcome your assistance later. No—be what seems best to you, and I will bury him myself, and so die nobly. I’ll lie beside him in love, guilty of devotion! For I must please the dead a longer time than I must please the living. With them I’ll lie forever. But you go on, dishonor what’s honored by the gods.
             </p>
             <p>
               <b>ISMENE:</b> I’m not dishonoring them! I simply can’t act against the wishes of the citizens.
