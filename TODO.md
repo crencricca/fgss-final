@@ -1,10 +1,10 @@
 # PROJECT
 
-- finish introduction and write "future vision" conclusion
-  - new hypothesis and research question for continued study
-  - identification and alienation definitions?
+- works consulted / source list
 
 # WEBSITE
 
+- replace introduction text on page
+- proofread texts
+- change text sources to books / from class
 - change font?
-- add question before olivia/bliss intro?

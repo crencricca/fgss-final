@@ -1,5 +1,13 @@
 <template>
-  <v-container fluid pa-12 blue-grey justify-md-center justify-self lighten-5 cover>
+  <v-container
+    fluid
+    pa-12
+    blue-grey
+    justify-md-center
+    justify-self
+    lighten-5
+    cover
+  >
     <v-row text-center align-center wrap>
       <v-row text-center align-center justify="center">
         <v-col cols="2">
@@ -11,13 +19,15 @@
             ancient characters.
           </p>
         </v-col>
-        <v-row pa-5 text-center align-center dense no-gutters justify="center">
+        <!-- <v-row pa-5 text-center align-center dense no-gutters justify="center">
           <v-col cols="1">
             <p class="subtitle">Definition:</p>
           </v-col>
           <v-col cols="4">
             <p class="subtitle">
-              <i>Relate</i> in this context signifies that a person is able to form some sort of meaningful emotional connection with a character.
+              <i>Relate</i> in this context signifies that a person is able to
+              form some sort of meaningful emotional connection with a
+              character.
             </p>
           </v-col>
         </v-row>
@@ -27,16 +37,35 @@
           </v-col>
           <v-col cols="4">
             <p class="subtitle">
-              <i>Distance</i> signifies that a character has been portrayed in a way that prohibits the reader's ability to connect with that character.
+              <i>Distance</i> signifies that a character has been portrayed in a
+              way that prohibits the reader's ability to connect with that
+              character.
             </p>
           </v-col>
-        </v-row>
+        </v-row>-->
       </v-row>
       <v-row text-center align-center justify="center">
         <v-col cols="8">
           <v-card raised>
             <v-card-title>Introduction</v-card-title>
-            <v-card-text>Throughout our study of female characters in Ancient Greek plays and stories, I found myself wondering how these characters would have been received by a contemporary Greek or Roman woman at the time. I mostly thought about how the often-negative portrayal of women in fictional narratives would have affected a female viewer’s self-perception. Our self-identity is obviously a major factor in how we navigate society, and for younger women, fictional female characters were often the only other representation of women to look to for guidance. We have talked a lot about gender roles in this class, and one theme that has stuck out to me in particular is how stagnant these gender roles seemed to be in Ancient Greece. Further, it fascinates me how stagnant gender roles have seemed to be in general; I see similarities between gender roles in Ancient Greek society and today. I believe that part of the reason why this is the case is due to the portrayal of women in fictional narratives, leading to lack of strong role models. I think that the recent shifts in gender roles can partially be attributed to stronger female representation in media and fictional narratives.</v-card-text>
+            <v-card-text
+              >Throughout the course of this class, I often found myself
+              wondering about how ancient Greek women would have responded to
+              the portrayal of female characters in the fictional narratives
+              that we studied. Because I unfortunately cannot go back in time
+              and interview these ancient women about the way that they related
+              to fictional characters, I decided to interview my peers instead
+              and see how they responded to ancient Greek fictional women. While
+              I was developing my project, I became interested specifically in
+              whether I could find any trends in the way that my peers responded
+              to ancient female characters versus more modern characters. In an
+              attempt to unite three of my areas of study -- gender studies,
+              computer science, and sociology -- I wanted to challenge myself to
+              perform a preliminary sociological study and build a website to
+              present the data that I gathered. My research was based around the
+              question of whether there are trends in the responses that might
+              provide an interesting foundation for further study.</v-card-text
+            >
             <v-card-actions>
               <v-btn
                 text
@@ -44,7 +73,8 @@
                 href="https://docs.google.com/document/d/1NjaBg1zuRBC797P-e6SZh6WZaf-EPrFJeGNX3aIS_u8/edit?usp=sharing"
                 color="indigo"
                 target="_blank"
-              >Full Introduction</v-btn>
+                >Full Introduction</v-btn
+              >
             </v-card-actions>
           </v-card>
         </v-col>

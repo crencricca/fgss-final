@@ -563,52 +563,79 @@ export default {
     return {
       LysDesc: [
         {
+          word: "charismatic",
+          freq: 2
+        },
+        {
+          word: "resourceful",
+          freq: 2
+        },
+        {
           word: "strong",
           freq: 2
         },
         {
-          word: "loyal",
+          word: "oversexualization",
           freq: 2
-        },
-        {
-          word: "suspicious",
-          freq: 2
-        },
-        {
-          word: "tense",
-          freq: 2
-        },
-        {
-          word: "dedicated",
-          freq: 1
-        },
-
-        {
-          word: "strong-minded",
-          freq: 1
         },
         {
           word: "smart",
+          freq: 2
+        },
+        {
+          word: "motivated",
           freq: 1
         },
         {
-          word: "aware",
+          word: "impact",
           freq: 1
         },
         {
-          word: "desperate",
+          word: "underestimated",
           freq: 1
         },
         {
-          word: "submissive",
+          word: "impact",
           freq: 1
         },
         {
-          word: "survival",
+          word: "misogynistic",
           freq: 1
         },
         {
-          word: "hesistant",
+          word: "clever",
+          freq: 1
+        },
+        {
+          word: "determined",
+          freq: 1
+        },
+        {
+          word: "distant",
+          freq: 1
+        },
+        {
+          word: "power",
+          freq: 1
+        },
+        {
+          word: "foreign",
+          freq: 1
+        },
+        {
+          word: "change",
+          freq: 1
+        },
+        {
+          word: "confrontation",
+          freq: 1
+        },
+        {
+          word: "sneaky",
+          freq: 1
+        },
+        {
+          word: "sexist",
           freq: 1
         }
       ]

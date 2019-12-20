@@ -319,7 +319,7 @@
                   <p class="body-2">
                     I then separated the words by sentiment and with the help of
                     a sentiment analysis program, labeled them as either positive,
-                    negative, or neutral I then made a simple pie chart displaying
+                    negative, or neutral. I then made a simple pie chart displaying
                     the relative percentages of each.
                   </p>
                 </v-col>

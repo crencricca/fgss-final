@@ -1,6 +1,13 @@
 <template>
   <v-parallax src="../../public/greek.jpg">
-    <v-container fluid fill-height white--text cover align-center align="center">
+    <v-container
+      fluid
+      fill-height
+      white--text
+      cover
+      align-center
+      align="center"
+    >
       <v-col cols="12">
         <v-row text-center wrap justify="center">
           <v-col cols="2">
@@ -8,8 +15,8 @@
           </v-col>
           <v-col cols="5">
             <p class="headline font-weight-light">
-              How do modern readers respond to Ancient Greek fictional characters
-              vs. contemporary characters?
+              How do modern readers respond to Ancient Greek fictional
+              characters vs. contemporary characters?
             </p>
           </v-col>
         </v-row>
@@ -26,7 +33,6 @@
   height: 80%;
 }
 </style>
-
 
 <script>
 export default {
